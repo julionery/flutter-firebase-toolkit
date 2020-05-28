@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "106875333519",
+    "firebase_url": "https://toolkit-5bd17.firebaseio.com",
+    "project_id": "toolkit-5bd17",
+    "storage_bucket": "toolkit-5bd17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106875333519:android:b9a1706e59ee26c5",
+        "android_client_info": {
+          "package_name": "julionery.toolkit_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106875333519-cqnlgc0216brekq4nn7fu3pgk6fvn3pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqphWzN0V3PZGznYdldRMq_jmqXxNfNrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106875333519-cqnlgc0216brekq4nn7fu3pgk6fvn3pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
