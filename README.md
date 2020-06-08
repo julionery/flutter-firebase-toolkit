@@ -1,4 +1,4 @@
-<h1 align="center">Aplicativo Demonstrativo</h1>
+<h1 align="center">Aplicativo Flutter</h1>
 
 ### Aplicativo desenvolvido em Flutter contendo vários módulos de cursos da Udemy e DevMedia.
 
