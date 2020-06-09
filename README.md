@@ -1,6 +1,8 @@
-<h1 align="center">Aplicativo Flutter</h1>
+<h1 align="center">Aplicativo Toolkit</h1>
 
 ### Aplicativo desenvolvido em Flutter contendo vários módulos de cursos da Udemy e DevMedia.
+
+### [Toolkit Admin](https://github.com/julionery/flutter-firebase-toolkit-admin) - Aplicativo de gerenciamento do modulo de vendas deste app.
 
 ### :rocket: Tecnologias:
 - [Flutter](https://flutter.dev/ "Flutter")
